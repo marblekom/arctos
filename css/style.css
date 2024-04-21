@@ -2352,10 +2352,13 @@ background-size: auto 59%;
 background-position-y: 150px;
 
 }
-.logoaa{
-   height:65px;
 }
 
+@media (max-width:1200px) {
+    .logoaa{
+        font-size:10px;
+    }
+}
 @media (max-width: 768px) {
 .navStyle {
     
