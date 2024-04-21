@@ -2474,7 +2474,8 @@ width: 100%;
 text-align: left;
 margin-top: 20px;
 }
-.logoaa{
+.logoaa.h2{
+    font-size:15px;
  
 }
 .caption {
