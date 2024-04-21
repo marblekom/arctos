@@ -2352,9 +2352,8 @@ background-size: auto 59%;
 background-position-y: 150px;
 
 }
-.logoaa.h2{
-    font-size:10px;
-    }
+.logoaa{
+   height:65px;
 }
 
 @media (max-width: 768px) {
