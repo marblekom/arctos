@@ -2355,7 +2355,7 @@ background-position-y: 150px;
 }
 
 @media (max-width:1200px) {
-    .logoaa.h2{
+    #fonting{
         font-size:10px;
     }
 }
